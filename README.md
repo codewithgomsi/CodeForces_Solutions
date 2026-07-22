@@ -6,16 +6,16 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 8 |
+| 8 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (2)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [math](#math) (4)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
@@ -28,6 +28,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/231/A%20-%20Team/solution.java) |
 
 ### constructive algorithms
 
@@ -46,6 +47,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 
 ### math
