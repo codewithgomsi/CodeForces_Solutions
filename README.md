@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 11 |
+| 12 | 11 |
 
 ---
 
@@ -18,11 +18,11 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (2)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (4)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (1)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 
 ---
 
@@ -71,6 +71,7 @@
 |---|---------|------------|----------|
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/96/A%20-%20Football/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+| 1800A | [Is It a Cat?](https://codeforces.com/contest/1800/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1800/A%20-%20Is%20It%20a%20Cat%3F/solution.java) |
 
 ### math
 
@@ -101,6 +102,7 @@
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/96/A%20-%20Football/solution.java) |
+| 1800A | [Is It a Cat?](https://codeforces.com/contest/1800/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1800/A%20-%20Is%20It%20a%20Cat%3F/solution.java) |
 
 ---
 
