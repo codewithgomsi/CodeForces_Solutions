@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 12 |
+| 14 | 12 |
 
 ---
 
@@ -17,12 +17,12 @@
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (2)
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (4)
-- [math](#math) (4)
+- [math](#math) (5)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (1)
-- [strings](#strings) (3)
+- [strings](#strings) (4)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -65,6 +65,7 @@
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/231/A%20-%20Team/solution.java) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
+| 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.java) |
 
 ### implementation
 
@@ -83,6 +84,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.cpp) |
+| 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.java) |
 
 ### number theory
 
@@ -105,6 +107,7 @@
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/96/A%20-%20Football/solution.java) |
 | 1800A | [Is It a Cat?](https://codeforces.com/contest/1800/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1800/A%20-%20Is%20It%20a%20Cat%3F/solution.java) |
+| 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.java) |
 
 ### two pointers
 
