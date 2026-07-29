@@ -1,22 +1,24 @@
 import java.util.Scanner;
  
-public class Team {
+public class Main {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
-        int count = 0;
+        Scanner scanner = new Scanner(System.in);
+        if (!scanner.hasNextInt()) return;
+        
+        int n = scanner.nextInt();
+        int totalSolved = 0;
         
         for (int i = 0; i < n; i++) {
-            int p = sc.nextInt();
-            int v = sc.nextInt();
-            int t = sc.nextInt();
+            int petya = scanner.nextInt();
+            int vasya = scanner.nextInt();
+            int tonya = scanner.nextInt();
             
-            if (p + v + t >= 2) {
-                count++;
+            // Check if at least two friends are sure
+            if (petya + vasya + tonya >= 2) {
+                totalSolved++;
             }
         }
         
-        System.out.println(count);
-        sc.close();
+        System.out.println(totalSolved);
     }
 }
