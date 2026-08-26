@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 13 |
+| 23 | 13 |
 
 ---
 
@@ -17,9 +17,9 @@
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [dp](#dp) (2)
-- [greedy](#greedy) (9)
+- [greedy](#greedy) (10)
 - [implementation](#implementation) (5)
-- [math](#math) (12)
+- [math](#math) (13)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (1)
 - [strings](#strings) (4)
@@ -78,6 +78,7 @@
 | 1254B1 | [Send Boxes to Alice (Easy Version)](https://codeforces.com/contest/1254/problem/B1) | 1800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1254/B1%20-%20Send%20Boxes%20to%20Alice%20(Easy%20Version)/solution.java) |
 | 1254B2 | [Send Boxes to Alice (Hard Version)](https://codeforces.com/contest/1254/problem/B2) | 2100 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1254/B2%20-%20Send%20Boxes%20to%20Alice%20(Hard%20Version)/solution.java) |
 | 1257A | [Two Rival Students](https://codeforces.com/contest/1257/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1257/A%20-%20Two%20Rival%20Students/solution.java) |
+| 1338A | [Powered Addition](https://codeforces.com/contest/1338/problem/A) | 1500 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1338/A%20-%20Powered%20Addition/solution.java) |
 | 2232B | [Cake Leveling](https://codeforces.com/contest/2232/problem/B) | 900 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2232/B%20-%20Cake%20Leveling/solution.java) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.java) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
@@ -102,6 +103,7 @@
 | 1254B1 | [Send Boxes to Alice (Easy Version)](https://codeforces.com/contest/1254/problem/B1) | 1800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1254/B1%20-%20Send%20Boxes%20to%20Alice%20(Easy%20Version)/solution.java) |
 | 1254B2 | [Send Boxes to Alice (Hard Version)](https://codeforces.com/contest/1254/problem/B2) | 2100 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1254/B2%20-%20Send%20Boxes%20to%20Alice%20(Hard%20Version)/solution.java) |
 | 1257A | [Two Rival Students](https://codeforces.com/contest/1257/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1257/A%20-%20Two%20Rival%20Students/solution.java) |
+| 1338A | [Powered Addition](https://codeforces.com/contest/1338/problem/A) | 1500 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1338/A%20-%20Powered%20Addition/solution.java) |
 | 2057A | [MEX Table](https://codeforces.com/contest/2057/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2057/A%20-%20MEX%20Table/solution.java) |
 | 2232B | [Cake Leveling](https://codeforces.com/contest/2232/problem/B) | 900 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2232/B%20-%20Cake%20Leveling/solution.java) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.cpp) |
