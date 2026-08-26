@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 12 |
+| 19 | 12 |
 
 ---
 
@@ -15,11 +15,11 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (2)
 - [brute force](#brute-force) (4)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (2)
 - [greedy](#greedy) (6)
 - [implementation](#implementation) (4)
-- [math](#math) (9)
+- [math](#math) (10)
 - [number theory](#number-theory) (3)
 - [sortings](#sortings) (1)
 - [strings](#strings) (4)
@@ -53,6 +53,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2057A | [MEX Table](https://codeforces.com/contest/2057/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2057/A%20-%20MEX%20Table/solution.java) |
 | 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.java) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 
@@ -91,6 +92,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/617/A%20-%20Elephant/solution.java) |
 | 1257A | [Two Rival Students](https://codeforces.com/contest/1257/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1257/A%20-%20Two%20Rival%20Students/solution.java) |
+| 2057A | [MEX Table](https://codeforces.com/contest/2057/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2057/A%20-%20MEX%20Table/solution.java) |
 | 2232B | [Cake Leveling](https://codeforces.com/contest/2232/problem/B) | 900 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2232/B%20-%20Cake%20Leveling/solution.java) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.cpp) |
 | 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.java) |
