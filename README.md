@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 15 |
+| 25 | 15 |
 
 ---
 
@@ -18,13 +18,13 @@
 - [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
-- [greedy](#greedy) (10)
+- [greedy](#greedy) (11)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (6)
+- [implementation](#implementation) (7)
 - [math](#math) (13)
 - [number theory](#number-theory) (5)
-- [sortings](#sortings) (1)
-- [strings](#strings) (4)
+- [sortings](#sortings) (2)
+- [strings](#strings) (5)
 - [ternary search](#ternary-search) (2)
 - [two pointers](#two-pointers) (3)
 
@@ -82,6 +82,7 @@
 |---|---------|------------|----------|
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/158/B%20-%20Taxi/solution.java) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/231/A%20-%20Team/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 | 1254B1 | [Send Boxes to Alice (Easy Version)](https://codeforces.com/contest/1254/problem/B1) | 1800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1254/B1%20-%20Send%20Boxes%20to%20Alice%20(Easy%20Version)/solution.java) |
 | 1254B2 | [Send Boxes to Alice (Hard Version)](https://codeforces.com/contest/1254/problem/B2) | 2100 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1254/B2%20-%20Send%20Boxes%20to%20Alice%20(Hard%20Version)/solution.java) |
@@ -105,6 +106,7 @@
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/96/A%20-%20Football/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/158/B%20-%20Taxi/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
 | 1800A | [Is It a Cat?](https://codeforces.com/contest/1800/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1800/A%20-%20Is%20It%20a%20Cat%3F/solution.java) |
 
@@ -140,6 +142,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.cpp) |
 
 ### strings
@@ -148,6 +151,7 @@
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/96/A%20-%20Football/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 1800A | [Is It a Cat?](https://codeforces.com/contest/1800/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1800/A%20-%20Is%20It%20a%20Cat%3F/solution.java) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.java) |
 
