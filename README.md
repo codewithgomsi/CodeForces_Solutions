@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 23 | 13 |
+| 24 | 15 |
 
 ---
 
@@ -16,9 +16,11 @@
 - [binary search](#binary-search) (2)
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (5)
+- [data structures](#data-structures) (1)
 - [dp](#dp) (2)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (5)
+- [hashing](#hashing) (1)
+- [implementation](#implementation) (6)
 - [math](#math) (13)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (1)
@@ -61,6 +63,12 @@
 | 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.java) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
@@ -83,10 +91,17 @@
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.java) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
 
+### hashing
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
+
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/96/A%20-%20Football/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/158/B%20-%20Taxi/solution.java) |
