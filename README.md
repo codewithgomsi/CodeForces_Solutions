@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 29 | 15 |
+| 30 | 15 |
 
 ---
 
@@ -20,11 +20,11 @@
 - [dp](#dp) (2)
 - [greedy](#greedy) (11)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (11)
+- [implementation](#implementation) (12)
 - [math](#math) (13)
 - [number theory](#number-theory) (5)
 - [sortings](#sortings) (2)
-- [strings](#strings) (6)
+- [strings](#strings) (7)
 - [ternary search](#ternary-search) (2)
 - [two pointers](#two-pointers) (3)
 
@@ -105,6 +105,7 @@
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/96/A%20-%20Football/solution.java) |
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/158/B%20-%20Taxi/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
@@ -156,6 +157,7 @@
 | 59A | [Word](https://codeforces.com/contest/59/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/59/A%20-%20Word/solution.java) |
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/96/A%20-%20Football/solution.java) |
+| 118A | [String Task](https://codeforces.com/contest/118/problem/A) | 1000 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/118/A%20-%20String%20Task/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 1800A | [Is It a Cat?](https://codeforces.com/contest/1800/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1800/A%20-%20Is%20It%20a%20Cat%3F/solution.java) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.java) |
