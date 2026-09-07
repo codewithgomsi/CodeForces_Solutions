@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 15 |
+| 32 | 18 |
 
 ---
 
@@ -17,7 +17,9 @@
 - [brute force](#brute-force) (4)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (1)
+- [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
+- [graphs](#graphs) (1)
 - [greedy](#greedy) (11)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (13)
@@ -26,6 +28,7 @@
 - [sortings](#sortings) (2)
 - [strings](#strings) (7)
 - [ternary search](#ternary-search) (2)
+- [trees](#trees) (1)
 - [two pointers](#two-pointers) (3)
 
 ---
@@ -70,12 +73,24 @@
 |---|---------|------------|----------|
 | 4C | [Registration System](https://codeforces.com/contest/4/problem/C) | 1300 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/4/C%20-%20Registration%20System/solution.java) |
 
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.java) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.java) |
 
 ### greedy
 
@@ -170,6 +185,12 @@
 |---|---------|------------|----------|
 | 1254B1 | [Send Boxes to Alice (Easy Version)](https://codeforces.com/contest/1254/problem/B1) | 1800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1254/B1%20-%20Send%20Boxes%20to%20Alice%20(Easy%20Version)/solution.java) |
 | 1254B2 | [Send Boxes to Alice (Hard Version)](https://codeforces.com/contest/1254/problem/B2) | 2100 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1254/B2%20-%20Send%20Boxes%20to%20Alice%20(Hard%20Version)/solution.java) |
+
+### trees
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.java) |
 
 ### two pointers
 
