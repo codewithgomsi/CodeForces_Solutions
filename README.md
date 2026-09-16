@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 19 |
+| 36 | 19 |
 
 ---
 
@@ -14,15 +14,15 @@
 
 - [*special](#special) (2)
 - [binary search](#binary-search) (3)
-- [brute force](#brute-force) (4)
+- [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (4)
+- [dp](#dp) (5)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (11)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (14)
+- [implementation](#implementation) (15)
 - [math](#math) (13)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
@@ -55,6 +55,7 @@
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/231/A%20-%20Team/solution.java) |
+| 327A | [Flipping Game](https://codeforces.com/contest/327/problem/A) | 1200 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/327/A%20-%20Flipping%20Game/solution.java) |
 | 2234B | [Palindrome, Twelve and Two Terms](https://codeforces.com/contest/2234/problem/B) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2234/B%20-%20Palindrome%2C%20Twelve%20and%20Two%20Terms/solution.java) |
 | 2236C | [Omsk Programmers](https://codeforces.com/contest/2236/problem/C) | 1000 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2236/C%20-%20Omsk%20Programmers/solution.java) |
 
@@ -85,6 +86,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 279C | [Ladder](https://codeforces.com/contest/279/problem/C) | 1700 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/279/C%20-%20Ladder/solution.java) |
+| 327A | [Flipping Game](https://codeforces.com/contest/327/problem/A) | 1200 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/327/A%20-%20Flipping%20Game/solution.java) |
 | 706C | [Hard problem](https://codeforces.com/contest/706/problem/C) | 1600 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/706/C%20-%20Hard%20problem/solution.java) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
@@ -130,6 +132,7 @@
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/158/B%20-%20Taxi/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 | 279C | [Ladder](https://codeforces.com/contest/279/problem/C) | 1700 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/279/C%20-%20Ladder/solution.java) |
+| 327A | [Flipping Game](https://codeforces.com/contest/327/problem/A) | 1200 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/327/A%20-%20Flipping%20Game/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/474/B%20-%20Worms/solution.java) |
