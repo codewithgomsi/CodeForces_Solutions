@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 19 |
+| 38 | 19 |
 
 ---
 
@@ -17,16 +17,16 @@
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (1)
-- [dfs and similar](#dfs-and-similar) (1)
+- [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (6)
-- [graphs](#graphs) (2)
+- [graphs](#graphs) (3)
 - [greedy](#greedy) (11)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (16)
 - [math](#math) (13)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (3)
 - [strings](#strings) (8)
 - [ternary search](#ternary-search) (2)
 - [trees](#trees) (2)
@@ -79,6 +79,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 510C | [Fox And Names](https://codeforces.com/contest/510/problem/C) | 1600 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/510/C%20-%20Fox%20And%20Names/solution.java) |
 | 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.java) |
 
 ### dp
@@ -97,6 +98,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 20C | [Dijkstra?](https://codeforces.com/contest/20/problem/C) | 1900 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/20/C%20-%20Dijkstra%3F/solution.java) |
+| 510C | [Fox And Names](https://codeforces.com/contest/510/problem/C) | 1600 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/510/C%20-%20Fox%20And%20Names/solution.java) |
 | 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.java) |
 
 ### greedy
@@ -181,6 +183,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 510C | [Fox And Names](https://codeforces.com/contest/510/problem/C) | 1600 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/510/C%20-%20Fox%20And%20Names/solution.java) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.cpp) |
 
 ### strings
