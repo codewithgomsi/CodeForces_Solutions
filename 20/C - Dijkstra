@@ -1,17 +1,59 @@
-<h2><a href="https://codeforces.com/contest/20/problem/C" target="_blank" rel="noopener noreferrer">20C — Dijkstra?</a></h2>
-
-| | |
-|---|---|
-| **Difficulty** | 1900 |
-| **Language** | Java 21 |
-| **Verdict** | ✅ Accepted |
-| **Problem Link** | [Codeforces 20C](https://codeforces.com/contest/20/problem/C) |
-
-## Topics
-`graphs` `shortest paths`
-
----
-
-## Problem Statement
-
-<div class="header"><div class="title">C. Dijkstra?</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>64 megabytes</div><div class="input-file input-standard" style="font-weight: bold"><div class="property-title">input</div>stdin</div><div class="output-file output-standard" style="font-weight: bold"><div class="property-title">output</div>stdout</div></div><div><p>You are given a weighted undirected graph. The vertices are enumerated from 1 to <span class="tex-span"><i>n</i></span>. Your task is to find the shortest path between the vertex <span class="tex-span">1</span> and the vertex <span class="tex-span"><i>n</i></span>.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains two integers <span class="tex-span"><i>n</i></span> and <span class="tex-span"><i>m</i></span> (<span class="tex-span">2 ≤ <i>n</i> ≤ 10<sup class="upper-index">5</sup>, 0 ≤ <i>m</i> ≤ 10<sup class="upper-index">5</sup></span>), where <span class="tex-span"><i>n</i></span> is the number of vertices and <span class="tex-span"><i>m</i></span> is the number of edges. Following <span class="tex-span"><i>m</i></span> lines contain one edge each in form <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub></span>, <span class="tex-span"><i>b</i><sub class="lower-index"><i>i</i></sub></span> and <span class="tex-span"><i>w</i><sub class="lower-index"><i>i</i></sub></span> (<span class="tex-span">1 ≤ <i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub> ≤ <i>n</i>, 1 ≤ <i>w</i><sub class="lower-index"><i>i</i></sub> ≤ 10<sup class="upper-index">6</sup></span>), where <span class="tex-span"><i>a</i><sub class="lower-index"><i>i</i></sub>, <i>b</i><sub class="lower-index"><i>i</i></sub></span> are edge endpoints and <span class="tex-span"><i>w</i><sub class="lower-index"><i>i</i></sub></span> is the length of the edge.</p><p>It is possible that the graph has loops and multiple edges between pair of vertices.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Write the only integer <span class="tex-font-style-tt">-1</span> in case of no path. Write the shortest path in opposite case. If there are many solutions, print any of them.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id0013185867202140722" id="id008317859346040661" class="input-output-copier">Copy</div></div><pre id="id0013185867202140722">5 6<br>1 2 2<br>2 5 5<br>2 3 4<br>1 4 1<br>4 3 3<br>3 5 1<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0036391401353372543" id="id006774412439155619" class="input-output-copier">Copy</div></div><pre id="id0036391401353372543">1 4 3 5 </pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id003112178150783631" id="id007173572297837022" class="input-output-copier">Copy</div></div><pre id="id003112178150783631">5 6<br>1 2 2<br>2 5 5<br>2 3 4<br>1 4 1<br>4 3 3<br>3 5 1<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id007123693782832448" id="id005918034330560424" class="input-output-copier">Copy</div></div><pre id="id007123693782832448">1 4 3 5 </pre></div></div></div>
+import java.util.*;
+ 
+public class Main {
+    static class Edge {
+        int to;
+        long weight;
+        Edge(int t, long w) { to = t; weight = w; }
+    }
+ 
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt(), m = sc.nextInt();
+        
+        List<Edge>[] adj = new ArrayList[n+1];
+        for (int i = 1; i <= n; i++) adj[i] = new ArrayList<>();
+        
+        for (int i = 0; i < m; i++) {
+            int u = sc.nextInt(), v = sc.nextInt();
+            long w = sc.nextLong();
+            adj[u].add(new Edge(v, w));
+            adj[v].add(new Edge(u, w));
+        }
+        
+        long[] dist = new long[n+1];
+        Arrays.fill(dist, Long.MAX_VALUE);
+        int[] parent = new int[n+1];
+        Arrays.fill(parent, -1);
+        
+        dist[1] = 0;
+        PriorityQueue<long[]> pq = new PriorityQueue<>(Comparator.comparingLong(a -> a[1]));
+        pq.add(new long[]{1, 0});
+        
+        while (!pq.isEmpty()) {
+            long[] cur = pq.poll();
+            int u = (int) cur[0];
+            long d = cur[1];
+            if (d != dist[u]) continue;
+            
+            for (Edge e : adj[u]) {
+                if (dist[u] + e.weight < dist[e.to]) {
+                    dist[e.to] = dist[u] + e.weight;
+                    parent[e.to] = u;
+                    pq.add(new long[]{e.to, dist[e.to]});
+                }
+            }
+        }
+        
+        if (dist[n] == Long.MAX_VALUE) {
+            System.out.println(-1);
+            return;
+        }
+        
+        List<Integer> path = new ArrayList<>();
+        for (int v = n; v != -1; v = parent[v]) path.add(v);
+        Collections.reverse(path);
+        
+        for (int v : path) System.out.print(v + " ");
+    }
+}
