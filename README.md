@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 33 | 18 |
+| 34 | 19 |
 
 ---
 
@@ -19,12 +19,13 @@
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (3)
-- [graphs](#graphs) (1)
+- [graphs](#graphs) (2)
 - [greedy](#greedy) (11)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (13)
 - [math](#math) (13)
 - [number theory](#number-theory) (5)
+- [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (8)
 - [ternary search](#ternary-search) (2)
@@ -91,6 +92,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 20C | [Dijkstra?](https://codeforces.com/contest/20/problem/C) | 1900 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/20/C%20-%20Dijkstra%3F/solution.java) |
 | 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.java) |
 
 ### greedy
@@ -160,6 +162,12 @@
 | 1254B2 | [Send Boxes to Alice (Hard Version)](https://codeforces.com/contest/1254/problem/B2) | 2100 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1254/B2%20-%20Send%20Boxes%20to%20Alice%20(Hard%20Version)/solution.java) |
 | 2234A | [Euclid, Sequence and Two Numbers](https://codeforces.com/contest/2234/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2234/A%20-%20Euclid%2C%20Sequence%20and%20Two%20Numbers/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
+
+### shortest paths
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 20C | [Dijkstra?](https://codeforces.com/contest/20/problem/C) | 1900 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/20/C%20-%20Dijkstra%3F/solution.java) |
 
 ### sortings
 
