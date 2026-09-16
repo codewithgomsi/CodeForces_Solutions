@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 34 | 19 |
+| 35 | 19 |
 
 ---
 
@@ -18,11 +18,11 @@
 - [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (3)
+- [dp](#dp) (4)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (11)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (13)
+- [implementation](#implementation) (14)
 - [math](#math) (13)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
@@ -30,7 +30,7 @@
 - [strings](#strings) (8)
 - [ternary search](#ternary-search) (2)
 - [trees](#trees) (1)
-- [two pointers](#two-pointers) (3)
+- [two pointers](#two-pointers) (4)
 
 ---
 
@@ -84,6 +84,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 279C | [Ladder](https://codeforces.com/contest/279/problem/C) | 1700 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/279/C%20-%20Ladder/solution.java) |
 | 706C | [Hard problem](https://codeforces.com/contest/706/problem/C) | 1600 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/706/C%20-%20Hard%20problem/solution.java) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
@@ -128,6 +129,7 @@
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 158B | [Taxi](https://codeforces.com/contest/158/problem/B) | 1100 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/158/B%20-%20Taxi/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
+| 279C | [Ladder](https://codeforces.com/contest/279/problem/C) | 1700 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/279/C%20-%20Ladder/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/474/B%20-%20Worms/solution.java) |
@@ -206,6 +208,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 279C | [Ladder](https://codeforces.com/contest/279/problem/C) | 1700 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/279/C%20-%20Ladder/solution.java) |
 | 1254B1 | [Send Boxes to Alice (Easy Version)](https://codeforces.com/contest/1254/problem/B1) | 1800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1254/B1%20-%20Send%20Boxes%20to%20Alice%20(Easy%20Version)/solution.java) |
 | 1254B2 | [Send Boxes to Alice (Hard Version)](https://codeforces.com/contest/1254/problem/B2) | 2100 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1254/B2%20-%20Send%20Boxes%20to%20Alice%20(Hard%20Version)/solution.java) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
