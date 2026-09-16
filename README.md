@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 19 |
+| 37 | 19 |
 
 ---
 
@@ -18,18 +18,18 @@
 - [constructive algorithms](#constructive-algorithms) (5)
 - [data structures](#data-structures) (1)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (5)
+- [dp](#dp) (6)
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (11)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (15)
+- [implementation](#implementation) (16)
 - [math](#math) (13)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (8)
 - [ternary search](#ternary-search) (2)
-- [trees](#trees) (1)
+- [trees](#trees) (2)
 - [two pointers](#two-pointers) (4)
 
 ---
@@ -87,6 +87,7 @@
 |---|---------|------------|----------|
 | 279C | [Ladder](https://codeforces.com/contest/279/problem/C) | 1700 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/279/C%20-%20Ladder/solution.java) |
 | 327A | [Flipping Game](https://codeforces.com/contest/327/problem/A) | 1200 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/327/A%20-%20Flipping%20Game/solution.java) |
+| 431C | [k-Tree](https://codeforces.com/contest/431/problem/C) | 1600 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/431/C%20-%20k-Tree/solution.java) |
 | 706C | [Hard problem](https://codeforces.com/contest/706/problem/C) | 1600 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/706/C%20-%20Hard%20problem/solution.java) |
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.java) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
@@ -134,6 +135,7 @@
 | 279C | [Ladder](https://codeforces.com/contest/279/problem/C) | 1700 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/279/C%20-%20Ladder/solution.java) |
 | 327A | [Flipping Game](https://codeforces.com/contest/327/problem/A) | 1200 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/327/A%20-%20Flipping%20Game/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
+| 431C | [k-Tree](https://codeforces.com/contest/431/problem/C) | 1600 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/431/C%20-%20k-Tree/solution.java) |
 | 467A | [George and Accommodation](https://codeforces.com/contest/467/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/467/A%20-%20George%20and%20Accommodation/solution.java) |
 | 474B | [Worms](https://codeforces.com/contest/474/problem/B) | 1200 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/474/B%20-%20Worms/solution.java) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/705/A%20-%20Hulk/solution.java) |
@@ -205,6 +207,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 431C | [k-Tree](https://codeforces.com/contest/431/problem/C) | 1600 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/431/C%20-%20k-Tree/solution.java) |
 | 580C | [Kefa and Park](https://codeforces.com/contest/580/problem/C) | 1500 | [Java 21](https://github.com/codewithgomsi/CodeForces_Solutions/blob/HEAD/580/C%20-%20Kefa%20and%20Park/solution.java) |
 
 ### two pointers
